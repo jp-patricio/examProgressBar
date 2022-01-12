@@ -1,0 +1,16 @@
+.progressContainer{
+    position: relative;
+    width: 500px;
+    height: 20px;
+}
+.background{
+    width: 100%;
+    height: 10px;
+    position: absolute;
+    border-radius: 10px;
+}
+.cover{
+    height: 10px;
+    position: absolute;
+    border-radius: 10px;
+}
